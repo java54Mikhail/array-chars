@@ -72,7 +72,7 @@ class ArrayCharTest {
 		}
 		@Test
 		void equalsTest() {
-			//TODO
+			//TODO 
 		}
 		@Test
 		void equalsIgnoreCaseTest() {

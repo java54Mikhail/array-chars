@@ -62,7 +62,7 @@ public class ArrayChar {
 		return false;
 	}
 	public boolean equalsIgnoreCase(ArrayChar another) {
-		//TODO /depends from method equals
+		//TODO /depends from method equals.
 		return false;
 	}
 	}
